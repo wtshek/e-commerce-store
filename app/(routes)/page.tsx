@@ -1,7 +1,7 @@
 import React from "react";
 
-export const HomePage = () => {
-  return <div>HomePage</div>;
+export const Page = () => {
+  return <div>Page</div>;
 };
 
-export default HomePage;
+export default Page;
